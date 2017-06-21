@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|SharePoint" SupportedVersion="|V1.0|">
+<Item text="SharePoint Framework Reference" url="spdx" SEODescription="Reference documentation for the SharePoint Framework">
+
+<Item text="es6-collections" url="spdx/es6-collections-module" SEODescription="">
+<Item text="Interfaces" url="spdx/es6-collections" SEODescription="">
+<Item text="ForEachable" url="spdx/es6-collections/interface/foreachable.md" SEODescription=""/>
+<Item text="Iterator" url="spdx/es6-collections/interface/iterator.md" SEODescription=""/>
+<Item text="IteratorResult" url="spdx/es6-collections/interface/iteratorresult.md" SEODescription=""/>
+<Item text="Map" url="spdx/es6-collections/interface/map.md" SEODescription=""/>
+<Item text="MapConstructor" url="spdx/es6-collections/interface/mapconstructor.md" SEODescription=""/>
+<Item text="Set" url="spdx/es6-collections/interface/set.md" SEODescription=""/>
+<Item text="SetConstructor" url="spdx/es6-collections/interface/setconstructor.md" SEODescription=""/>
+<Item text="WeakMap" url="spdx/es6-collections/interface/weakmap.md" SEODescription=""/>
+<Item text="WeakMapConstructor" url="spdx/es6-collections/interface/weakmapconstructor.md" SEODescription=""/>
+<Item text="WeakSet" url="spdx/es6-collections/interface/weakset.md" SEODescription=""/>
+<Item text="WeakSetConstructor" url="spdx/es6-collections/interface/weaksetconstructor.md" SEODescription=""/>
+</Item>
+</Item>
+<Item text="es6-promise" url="spdx/es6-promise-module" SEODescription="">
+</Item>
+<Item text="whatwg-fetch" url="spdx/whatwg-fetch-module" SEODescription="">
+</Item>
+</Item></Menu>
